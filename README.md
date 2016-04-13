@@ -1,2 +1,2 @@
 # cosmology_notebook
-ipython notebook for Cosmology Class
+ipython notebook for Cosmology class
